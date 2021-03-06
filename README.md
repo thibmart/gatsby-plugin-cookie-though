@@ -2,6 +2,8 @@
 
 Easily add Cookie Though cookie consent to your Gatsby site. 😄
 
+[![Package Version](https://img.shields.io/npm/v/gatsby-plugin-cookie-though.svg)](https://npm.im/gatsby-plugin-cookie-though)
+
 <div align="center">
     <img src="https://cookiethough.dev/logo.png" width="100" height="auto"/>
 </div>

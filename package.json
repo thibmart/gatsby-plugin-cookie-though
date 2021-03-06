@@ -8,6 +8,10 @@
     "lint": "eslint ./src --ext .js",
     "format": "prettier --write \"src/**/*.js\""
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinmeyvaert/gatsby-plugin-cookie-though.git"
+  },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
