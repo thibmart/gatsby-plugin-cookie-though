@@ -1,0 +1,33 @@
+{
+  "name": "gatsby-plugin-cookie-though",
+  "version": "1.0.0",
+  "description": "Easily add cookie-though to your Gatsby site",
+  "scripts": {
+    "build": "babel src --out-dir .",
+    "prepare": "npm run build",
+    "lint": "eslint ./src --ext .js",
+    "format": "prettier --write \"src/**/*.js\""
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "eslint": "^7.21.0",
+    "eslint-config-ryanditjia": "^3.1.0",
+    "prettier": "^2.2.1"
+  },
+  "peerDependencies": {
+    "gatsby": "^1.0.0 || ^2.0.0 || ^2.0.0-alpha || ^2.0.0-beta"
+  },
+  "engines": {
+    "node": ">=6.0"
+  },
+  "author": "Kevin Meyvaert <kevin.meyvaert@inthepocket.com>",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "cookie-though"
+  ],
+  "license": "MIT"
+}
