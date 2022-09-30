@@ -14,7 +14,7 @@ const onRenderBody = ({
   const config = pluginOptions.config;
   setHeadComponents([/*#__PURE__*/React.createElement("script", {
     key: "gatsby-plugin-cookie-though",
-    src: "https://unpkg.com/cookie-though@1.0.0"
+    src: "https://cookiethough.dev/lib/1.5.0"
   })]);
   setPostBodyComponents([/*#__PURE__*/React.createElement("script", {
     dangerouslySetInnerHTML: {
