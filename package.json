@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-cookie-though",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Easily add cookie-though to your Gatsby site",
   "scripts": {
     "build": "babel src --out-dir .",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kevinmeyvaert/gatsby-plugin-cookie-though.git"
+    "url": "https://github.com/thibmart/gatsby-plugin-cookie-though.git"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
@@ -27,7 +27,7 @@
   "engines": {
     "node": ">=6.0"
   },
-  "author": "Kevin Meyvaert <kevin.meyvaert@inthepocket.com>",
+  "author": "thibmart <tmartin@amexio.fr>",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
