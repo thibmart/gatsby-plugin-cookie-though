@@ -9,7 +9,7 @@ export const onRenderBody = (
   setHeadComponents([
     <script
       key="gatsby-plugin-cookie-though"
-      src="https://cookiethough.dev/lib/1.2.0"
+      src="/cookie-though/lib.js"
     />,
   ]);
 
